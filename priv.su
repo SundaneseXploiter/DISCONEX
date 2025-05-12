@@ -1,19 +1,21 @@
-{b}{g}█████████████████████████████████████████████████████████████████████{y}  DISCONEX SYSTEM ONLINE  {g}█████████████████████████████████████████████████████████████████████
-{b}{g}█▄─▄▄─█▄─▄▄▀█▀▄▀█▄─▄█▄─▄▄─█▄─▄▄─█▀▄█▀▀▀▀▀▀▀▀▀▀█▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀█▄──▄█▀▄██▄█▄▄▄██
-{b}{g}█─▄▄─█─██─▄─█─▄─▄█─██─█─██─▄─█─▄██─▄███████████████████▓▓██─██─▄▀█▄──▄█─█────
-{b}{g}█▄▀▄─█──█▀─█▀─▀██─██─█─█▀─▄─▄▀─▄─▀▀▄────███─────█─▄▄─█▀───────▀█▀█▄█▄▄▄▄█▀▀▒
-{b}{y}══════════════════════════════════════════════════════════════════════════════════════════
-{w} TOOL NAME    : {wb}DISCONEX PRIVATE AIO TERMINAL TOOL{y}                              
-{w} AUTHOR       : {r}@susudosu
-{w} CONFIG FILE  : {wb}1t3r.env
-{w} SYSTEM MODE  : {r}{mode:<40}{y}
-{w} MEMORY       : {wb}{memory:<50}{y}
-{w} OS           : {wb}{os:<50}{y}
-{w} CPU POWER    : {wb}{cpu:<50}{y}
-{g}────────────────────────────────────────────────────────────────────────────────────────────
-{r} [!!] WARNING: MASS EXPLOITATION AND RCE PAYLOAD DEPLOYMENT DETECTED – USE WITH CAUTION!
-{y} [!!] LEGAL USE ONLY - USE THIS TOOL ONLY FOR SECURITY TESTING AND VULNERABILITY RESEARCH.
-{g}────────────────────────────────────────────────────────────────────────────────────────────
-{w} MODULES STATUS: [ ✓ ] SCANNER | [ ✓ ] EXPLOITER | [ ✓ ] COMBO CHECKER | [ ✓ ] LOGGING | [ ✓ ] UPLOADER
-{g} SYSTEM READY TO DEPLOY EXPLOITS & MONITOR REMOTE SYSTEMS
-{y} >> TYPE YOUR COMMAND TO BEGIN:
+{y} 
+                        .--------.
+                       / .------. \
+                      / /        \ \
+                      | |        | |
+                     _| |________| |_
+                   .' |_|        |_| '.
+                   '._____ ____ _____.' {w}----------------------------------{y}
+                   |     .'____'.     | {w}Memory: {wb}{memory}{y}
+                   '.__.'.'    '.'.__.' {w}Operating System: {wb}{os}{y}
+                   '.__  | DSX |  __.' {w}CPU Power: {wb}{cpu}{y}
+                   |   '.'.____.'.'   | {w}Settings File: {wb}1t3r.env{y}
+                   '.____'.____.'____.' {w}Mode: {r}{mode}{y} 
+                   '.________________.' {w}----------------------------------{y}
+
+                  {r}[ {y}DISCONEX EXPLOITER VERSION{r} ]
+   {w}[  {o}DISCONEX ALL IN ONE {w}] [ {r}Scanner and Exploiter and Combos Checker Private {w}] 
+
+{r}Important Note : {w}this tools made by {r}@susudosu{w} and not for sells for publicly
+{r}Warning!! This tools is very powerfull for getting Mass access of the website ( webshell / backdoor server )
+{y}i highly recommend using this as a bug hunter but if you using it for other purposes im not responsible for any illegal activity 
