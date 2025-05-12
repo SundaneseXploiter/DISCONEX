@@ -1,13 +1,13 @@
 {y}╭──────────────────────────────────────────────────────────────╮
-{y}│                        DISCONEX TOOLKIT                      │
-{y}│    Scanner • Exploiter • Combo Checker [PRIVATE VERSION]     │
+{y}│ ════════════════════════[ {r}DISCONEX TOOLKIT {y}]════════════════════════                      │
+{y}│    Scanner • Exploiter • Combo Checker {r}[PRIVATE VERSION]{y}     │
 {y}├──────────────────────────────────────────────────────────────┤
 {w}│ • TOOL NAME       : {wb}DISCONEX EXPLOITER PRIVATE TOOLKIT   │
 {w}│ • Memory          : {wb}{memory}{w}                          │
-{w}│ • OS              : {wb}{os:<42}{w}                          │  
-{w}│ • CPU Power       : {wb}{cpu:<42}{w}                         │
-{w}│ • Settings File   : {wb}1t3r.env{:<36}{w}                    │
-{w}│ • Mode            : {r}{mode:<42}{w}                         │                      │
+{w}│ • OS              : {wb}{os}{w}                          │  
+{w}│ • CPU Power       : {wb}{cpu}{w}                         │
+{w}│ • Settings File   : {wb}diconex.su{w}                    │
+{w}│ • Mode            : {gb}{mode}{w}                         │                      │
 {y}├──────────────────────────────────────────────────────────────┤
 {r}│ [!] Author         : @susudosu                               │
 {r}│ [!] Status         : NOT FOR SALE / NOT PUBLIC               │
